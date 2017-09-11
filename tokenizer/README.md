@@ -1,1 +1,0 @@
-Write your tokeniser in this directory.
